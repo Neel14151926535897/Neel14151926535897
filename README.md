@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neel14151926535897
-- 👀 I’m interested in html
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on scienceHub
+- 👀 I’m interested in c and js
+- 🌱 I’m currently learning c
+  
 
 
 <!---
